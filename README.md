@@ -35,3 +35,4 @@ Group 8
 #### 4-	The banker will grant a request if it satisfies the safety algorithm outlined in Section 8.6.3.1. If a request does not leave the system in a safe state, the banker will deny it. The request function should return 0 if successful and –1 if unsuccessful. Demonstrate an order in which the threads may complete for successful request. 
 
 ![image](https://user-images.githubusercontent.com/97139623/174451553-20686a0d-f8d6-4924-8bdc-53be21e3ec76.png)
+![image](https://user-images.githubusercontent.com/97139623/174451858-f5be3332-9677-471e-97f7-ce99ac70d2c8.png)
