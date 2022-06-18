@@ -20,6 +20,13 @@ Group 8
 3. HUSAM ALI AYESH QASER - 1912611
 4. BAKOBAN MOHAMMAD SAID SALEH - 1813937
 
+#### LECTURER:
+
+Dr.RIZAL BIN MOHD. NOR
+
+Due :
+20 June 2022
+
 ---
 
 #### 2- Your input file allocation, max, available 
