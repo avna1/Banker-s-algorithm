@@ -43,3 +43,7 @@ Due :
 
 ![image](https://user-images.githubusercontent.com/97139623/174451553-20686a0d-f8d6-4924-8bdc-53be21e3ec76.png)
 ![image](https://user-images.githubusercontent.com/97139623/174451858-f5be3332-9677-471e-97f7-ce99ac70d2c8.png)
+#### 5-	 Continue the program by interactively enter a request by answer the following questions:
+##### a.	If a request from Thread 1 arrives for (1, 0, 2), can the request be granted successfully
+
+
